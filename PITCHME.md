@@ -71,7 +71,7 @@ Go advanced with complete UV unwrapping and more, or export your models and deta
 
 +++
 
-Procedural camera system for in-game cameras, cinematics and cutscenes.
+### Procedural camera system for in-game cameras, cinematics and cutscenes.
 
 - Procedural composition
 - ***Follow modes***
@@ -146,20 +146,51 @@ A tidy scene makes editing easier.
 
 ---
 
-### Questions?
+## ProGrids Intro
 
-<br>
+Switch to unity for demo.
 
-@fa[twitter gp-contact](@gitpitch)
+- Open scene menu (Tools > ProGrids > ProGrids Window)
+- Tweak asset settings (Edit > Preferences)
+- Snap settings
+- Toggle Grid
+- Toggle Snap
+- Lock Grid
+- 2D planes / 3D Grid
 
-@fa[github gp-contact](gitpitch)
+---
 
-@fa[medium gp-contact](@gitpitch)
+## ProBuilder Intro
+
+Switch to unity for demo.
+
+- Open scene menu (Tools > ProBuilder > ProBuilder Window)
+- Tweak ProBuilder settings (Edit > Preferences)
+- New Shape
+- ProBuilder Modes
+- Poly Shape
+- Materials
+- Mover / Detail / Trigger / Collider
+- Export / Prefab
+
+---
+
+## Cinemachine
+
+Switch to unity for demo.
+
+- Virtual Camera
+- Cinemachine Brain
+- Clear Shot
+- Blend List
+- Dolly Track / Cart / Camera
+- Target group
+
+---
+
+## Post Processing Stack
+
+Its awesome nuff said
 
 ---?image=assets/image/gitpitch-audience.jpg&opacity=100
-
-@title[Download this Template!]
-
-### <span class="white">Get your presentation started!</span>
-### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/white)
-
+### Questions?
