@@ -124,7 +124,7 @@ Go advanced with complete UV unwrapping and more, or export your models and deta
 
 A sample project is available so we can jump right in.
 
-@fa[arrow-down gp-tip](http://)
+@fa[arrow-down gp-tip](https://github.com/NateBowman/Cine-ProBuilder/archive/master.zip)
 
 ---
 
