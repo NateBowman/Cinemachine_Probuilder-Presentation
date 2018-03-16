@@ -14,6 +14,14 @@ Assets provided by Unity Technologies 1.
 
 ---
 
+## Sample Project
+
+A sample project is available so we can jump right in.
+
+@fa[arrow-down gp-tip](https://github.com/NateBowman/Cine-ProBuilder/archive/master.zip)
+
+---
+
 ## Progrids
 
 ![grids](assets/image/grids.jpg)
@@ -121,14 +129,6 @@ Go advanced with complete UV unwrapping and more, or export your models and deta
 
 ---
 
-## Sample Project
-
-A sample project is available so we can jump right in.
-
-@fa[arrow-down gp-tip](https://github.com/NateBowman/Cine-ProBuilder/archive/master.zip)
-
----
-
 ## Project Setup
 
 Keeping an organised project is important.
@@ -191,7 +191,7 @@ Switch to unity for demo.
 
 ## Post Processing Stack
 
-![Overview](https://docs.unity3d.com/Manual/PostProcessingOverview.html)
+[Overview](https://docs.unity3d.com/Manual/PostProcessingOverview.html)
 
 - Post Processing / Asset
 - Antialiasing
