@@ -191,7 +191,23 @@ Switch to unity for demo.
 
 ## Post Processing Stack
 
-Its awesome nuff said
+![Overview](https://docs.unity3d.com/Manual/PostProcessingOverview.html)
+
+- Post Processing / Asset
+- Antialiasing
+- Depth of Field
+- Bloom
+- Color Grading / Dithering
+- Grain / Vignette  / Chromatic Aberation
+
 
 ---?image=assets/image/gitpitch-audience.jpg&opacity=100
 ### Questions?
+
+---
+
+### Next time?
+
+- Timelines and behaviours
+- Simple particles
+- ???
